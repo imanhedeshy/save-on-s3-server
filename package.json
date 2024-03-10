@@ -1,0 +1,33 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "A Node.js and Express server designed to teach junior developers about APIs, MySQL integration, and Amazon S3 file handling.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imanhedeshy/save-on-s3-server.git"
+  },
+  "keywords": [
+    "express",
+    "api",
+    "server",
+    "mysql",
+    "amazon",
+    "s3",
+    "education"
+  ],
+  "author": "Iman Hedeshy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/imanhedeshy/save-on-s3-server/issues"
+  },
+  "homepage": "https://github.com/imanhedeshy/save-on-s3-server#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.18.3"
+  }
+}
